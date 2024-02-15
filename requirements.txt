@@ -1,4 +1,4 @@
-llama-index
+llama-index==0.10.4
 google-generativeai
 llama-index-llms-gemini
 pypdf
@@ -6,3 +6,4 @@ python-dotenv
 IPython
 llama-index-embeddings-gemini
 streamlit
+ipykernel
